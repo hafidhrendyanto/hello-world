@@ -1,3 +1,3 @@
 # hello-world
-Just trying github. 
+Just tryin github. 
 What an awsome platform!
